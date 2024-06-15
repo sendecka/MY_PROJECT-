@@ -21,29 +21,29 @@ The dataset used for this project includes the following columns:
 ## Analyses Conducted
 
 1. Distribution of Content Types
-* Analyzed the distribution between Movies and TV Shows.
+  * Analyzed the distribution between Movies and TV Shows.
 2. Content Production by Country
-* Identified top countries producing content on Netflix.
+  * Identified top countries producing content on Netflix.
 3. Trends in Release Years
-* Examined trends in the number of productions over the years.
+  * Examined trends in the number of productions over the years.
 4. Rating Distribution
-* Analyzed the distribution of ratings for Netflix content.
+  * Analyzed the distribution of ratings for Netflix content.
 5. Duration Analysis
-* Investigated the distribution of movie durations and the number of seasons for TV shows.
+  * Investigated the distribution of movie durations and the number of seasons for TV shows.
 6. Most Frequent Directors and Actors
-* Identified the most prolific directors and frequently appearing actors.
+  * Identified the most prolific directors and frequently appearing actors.
 7. Seasonality of Content Additions
-* Explored patterns in the dates when content was added to Netflix.
+  * Explored patterns in the dates when content was added to Netflix.
 8. Rating Trends by Release Year
-* Analyzed how ratings have varied over different release years.
+  * Analyzed how ratings have varied over different release years.
 9. Production Trends by Country and Year
-* Visualized the number of productions by country and release year.
+  * Visualized the number of productions by country and release year.
 10. Correlation Analysis
-* Examined correlations between numerical variables in the dataset.
+  * Examined correlations between numerical variables in the dataset.
 11. Genre Popularity
-* Identified the most popular genres of content on Netflix.
+  * Identified the most popular genres of content on Netflix.
 12. Director Rating Analysis
-* Investigated the distribution of ratings across different directors.
+  * Investigated the distribution of ratings across different directors.
 
 
 ## Tools and Technologies
