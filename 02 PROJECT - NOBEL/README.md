@@ -1,8 +1,8 @@
-# Netflix Data Analysis
+# Nobel Prize Data Analysis
 
 ### Project Description
 
-This project aims to analyze data related to Netflix awards, containing information such as year, category, motivation, prize share, personal data of laureates, place of birth, place of work, and, if applicable, place and date of death. The analysis includes initial data exploration, data cleaning, and various analyses and visualizations.
+This project aims to analyze data related to Nobel Prizes, containing information such as year, category, motivation, prize share, personal data of laureates, place of birth, place of work, and, if applicable, place and date of death. The analysis includes initial data exploration, data cleaning, various analyses, and visualizations.
 
 ## Data
 
