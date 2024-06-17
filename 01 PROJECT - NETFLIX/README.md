@@ -20,30 +20,29 @@ The dataset used for this project includes the following columns:
 
 ## Analyses Conducted
 
-1. Distribution of Content Types
-- Analyzed the distribution between Movies and TV Shows.
-2. Content Production by Country
-- Identified top countries producing content on Netflix.
-3. Trends in Release Years
-- Examined trends in the number of productions over the years.
-4. Rating Distribution
-- Analyzed the distribution of ratings for Netflix content.
-5. Duration Analysis
-- Investigated the distribution of movie durations and the number of seasons for TV shows.
-6. Most Frequent Directors and Actors
-- Identified the most prolific directors and frequently appearing actors.
-7. Seasonality of Content Additions
-- Explored patterns in the dates when content was added to Netflix.
-8. Rating Trends by Release Year
-- Analyzed how ratings have varied over different release years.
-9. Production Trends by Country and Year
-- Visualized the number of productions by country and release year.
-10. Correlation Analysis
-- Examined correlations between numerical variables in the dataset.
-11. Genre Popularity
-- Identified the most popular genres of content on Netflix.
-12. Director Rating Analysis
-- Investigated the distribution of ratings across different directors.
+Step 1: Importing libraries and loading data 
+Step 2: Data mining
+Step 3: Data cleansing
+Step 4: Data analysis
+1. Analysis of the distribution of content types (movies vs. series)
+2. Number of productions depending on the country
+3. Analysis of publishing trends
+4. The number of Movies published after the year 2000
+5. Rating analysis
+6. Move duration analysis
+7. Distribution of the number of seasons of series on Netflix
+8. Most frequently collaborating directors and actors
+  A. The most prolific directors
+  B. The most frequently appearing actors
+9. Seasonality of adding new content
+  A. Number of added productions by month
+  B. Number of added productions per day of the week
+10. The most popular genres of movies and programs
+11. Content analysis
+  A. Analyze the most common words in titles.
+  B. Analyze the most common words in the descriptions.
+12. Display correlation between release year and move duration
+Step 5: Recommendation system based on genre
 
 
 ## Tools and Technologies
