@@ -6,16 +6,16 @@ This project aims to analyze a dataset of Netflix shows and movies to uncover in
 ## Dataset
 The dataset used for this project includes the following columns:
 
-* show_id: Unique ID for each show
-* type: Type of content (Movie or TV Show)
-* title: Title of the content
-* director: Director of the content
-* cast: Cast members
-* country: Country of production
-* date_added: Date the content was added to Netflix
-* release_year: Year the content was released
-* rating: Rating of the content
-* duration: Duration of the content (in minutes for movies, number of seasons for TV shows)
+* 'show_id': Unique ID for each show
+* 'type': Type of content (Movie or TV Show)
+* 'title': Title of the content
+* 'director': Director of the content
+* 'cast': Cast members
+* 'country': Country of production
+* 'date_added': Date the content was added to Netflix
+* 'release_year': Year the content was released
+* 'rating': Rating of the content
+* 'duration': Duration of the content (in minutes for movies, number of seasons for TV shows)
 
 
 ## Analyses Conducted
