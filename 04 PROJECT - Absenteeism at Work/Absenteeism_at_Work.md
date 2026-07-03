@@ -219,7 +219,7 @@ Strona główna raportu z kluczowymi wskaźnikami absencji dla całej organizacj
 
 | Miara | Front | Odwrót |
 |---|---|---|
-| `Summary KPI 1` | Total Absence Hours: **5 124h** / Total Absence Hours Previous Year: **4 876** |
+| `Summary KPI 1` | Total Absence Hours: **5 124h** | Total Absence Hours Previous Year: **4 876** |
 | `Summary KPI 2` | Avg Hours / Employee: **6,9h** | Top 4 pracownicy wg godzin |
 | `Summary KPI 3` | High Risk Employees: **18** | Bradford Factor 5 poziomu |
 | `Summary KPI 4` | Est. Annual Cost: **$215k** | Koszt wg poziomów Bradford |
@@ -228,8 +228,8 @@ Strona główna raportu z kluczowymi wskaźnikami absencji dla całej organizacj
 
 | Wizualizacja | Typ | Opis |
 |---|---|---|
-
-
+| Total absence and benchmark alert (480h) by month name | Line chart | Całkowita wartość abstencji w pracy według miesięcy. |
+| Total absence by reason | Bar chart | Całkowita absencja według powodu nieobecności. |
 ---
 
 ## 6. Strona: Time Trend
@@ -243,10 +243,9 @@ Analiza trendów czasowych absencji — miesięczna, tygodniowa i sezonowa.
 | Miara | Front | Odwrót |
 |---|---|---|
 | `Time Trend KPI 1` | Peak Month: **March** | Peak Month Hours: **765h** |
-| `Time Trend KPI 2` | Peak Day: **Monday** | Peak Day Hours: **1,489h** |
-| `Time Trend KPI 3` | Peak Season: **Summer** | Peak Season Hours: **1,492h** |
-| `Time Trend KPI 4` | Monday Effect: **29.1%** | Mon vs Tue–Fri porównanie |
-| `Time Trend KPI 5` | Longest Absence: **120h** | Szczegóły: ID #14, Listopad |
+| `Time Trend KPI 2` | Peak Day: **Monday** | Peak Day Hours: **1 489h** |
+| `Time Trend KPI 3` | Peak Season: **Summer** | Peak Season Hours: **1 492h** |
+| `Time Trend KPI 4` | Monday Effect: **29.1%** | Poniedziałek vs Wtorek-Piątek porównanie |
 
 ### Wykresy
 
